@@ -1,0 +1,12 @@
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\bin\Debug\Görüntüisleme.exe.config
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\bin\Debug\Görüntüisleme.exe
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\bin\Debug\Görüntüisleme.pdb
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.csprojResolveAssemblyReference.cache
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.Form1.resources
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.Form2.resources
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.exe
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.pdb
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.Form3.resources
+c:\users\mustafa\documents\visual studio 2013\Projects\Görüntüisleme\Görüntüisleme\obj\Debug\Görüntüisleme.Form4.resources
